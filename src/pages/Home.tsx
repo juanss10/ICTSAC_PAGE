@@ -6,7 +6,7 @@ const Home = () => {
       <Navbar />
       <Slides />
       <div>
-        <h1>Home</h1>
+        <h1>Pagina de inicio</h1>
         <Form />
       </div>
     </>
